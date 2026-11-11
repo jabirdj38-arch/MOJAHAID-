@@ -43,13 +43,13 @@ module.exports = {
     return message.reply({
       body: `
 👑 ╭─❖ OWNER ❖─╮
-   ╰➤ 『UDAY HOSSEIN SIYAM』
+   ╰➤ 『MOJAHAID HOSSEIN』
 
 🤖 ╭─❖ BOT NAME ❖─╮
-   ╰➤ 『Siyam Chat Bot』
+   ╰➤ 『Mojahaid Chat Bot』
 
 🎂 ╭─❖ AGE ❖─╮
-   ╰➤ 『16』
+   ╰➤ 『17』
 
 🚻 ╭─❖ GENDER ❖─╮
    ╰➤ 『Male』
@@ -58,13 +58,13 @@ module.exports = {
    ╰➤ 『Islam』
 
 🌐 ╭─❖ FACEBOOK ❖─╮
-   ╰➤ 『fb.com/UDAY.HOSSEIN.SIYAM』
+   ╰➤ 『fb.com/UDAY.MOja.haid』
 
 💬 ╭─❖ MESSENGER ❖─╮
-   ╰➤ 『m.me/UDAY.HOSSEIN.SIYAM』
+   ╰➤ 『m.me/UDAY.Moja.haid』
 
 📞 ╭─❖ WHATSAPP ❖─╮
-   ╰➤ 『wa.me/+8801789138157』
+   ╰➤ 『wa.me/+880607091537』
 
 👑 ╭─❖ GROUP ❖─╮
    ╰➤ 『${groupName}』
@@ -88,10 +88,10 @@ module.exports = {
    ╰➤ 『${date}』
 
 🏠 ╭─❖ ADDRESS ❖─╮
-   ╰➤ 『KISHOREGANJ, BANGLADESH』
+   ╰➤ 『Tangail』
 
 🏫 ╭─❖ SCHOOL ❖─╮
-   ╰➤ 『M A MANNAN MANIK HIGH SCHOOL』
+   ╰➤ 『Najurpur』
 
 💔 ╭─❖ RELATIONSHIP ❖─╮
    ╰➤ 『SINGLE』
